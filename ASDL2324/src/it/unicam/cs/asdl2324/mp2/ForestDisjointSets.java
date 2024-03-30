@@ -13,8 +13,8 @@ import java.util.Set;
  * Capitolo 21 Sezione 3.
  *
  * @param <E> il tipo degli elementi degli insiemi disgiunti
- * @author Luca Tesei (template) **ALESSANDRO IPPOLITI
- * *         alessand.ippoliti@studenti.unicam.it** (implementazione)
+ * @author Luca Tesei (template) **
+ * *         ** (implementazione)
  */
 public class ForestDisjointSets<E> implements DisjointSets<E> {
 
