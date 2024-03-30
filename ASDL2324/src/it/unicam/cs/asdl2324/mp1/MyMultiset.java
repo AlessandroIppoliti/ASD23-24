@@ -12,7 +12,7 @@ import java.util.*;
  *
  * @param <E> il tipo degli elementi del multiset
  * @author Luca Tesei (template) **
- * *         alessand.ippoliti@studenti.unicam.it** (implementazione)
+ * *         ** (implementazione)
  */
 public class MyMultiset<E> implements Multiset<E> {
 
