@@ -11,8 +11,8 @@ import java.util.Set;
  * Questa rappresentazione tiene traccia degli insiemi e dei loro elementi utilizzando
  * una struttura di dati basata su nodi collegati.
  *
- * @author Luca Tesei (template) **ALESSANDRO IPPOLITI
- * alessand.ippoliti@studenti.unicam.it** (implementazione)
+ * @author Luca Tesei (template) **
+ * ** (implementazione)
  */
 public class LinkedListDisjointSets implements DisjointSets {
 
