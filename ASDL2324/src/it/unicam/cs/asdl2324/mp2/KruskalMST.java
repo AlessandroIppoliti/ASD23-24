@@ -13,8 +13,8 @@ import java.util.HashSet;
  * {@code ForestDisjointSets<GraphNode<L>>} per gestire una collezione di
  * insiemi disgiunti di nodi del grafo.
  *
- * @author Luca Tesei (template) **ALESSANDRO IPPOLITI
- *  *         alessand.ippoliti@studenti.unicam.it** (implementazione)
+ * @author Luca Tesei (template) **
+ *  *         ** (implementazione)
  *
  * @param <L>
  *                tipo delle etichette dei nodi del grafo
