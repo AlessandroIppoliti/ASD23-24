@@ -11,7 +11,7 @@ import java.util.*;
  * utilizza una mappa (elementsMap) per tenere traccia degli elementi e delle loro occorrenze.
  *
  * @param <E> il tipo degli elementi del multiset
- * @author Luca Tesei (template) **ALESSANDRO IPPOLITI
+ * @author Luca Tesei (template) **
  * *         alessand.ippoliti@studenti.unicam.it** (implementazione)
  */
 public class MyMultiset<E> implements Multiset<E> {
